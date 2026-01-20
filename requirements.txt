@@ -1,0 +1,7 @@
+pandas
+geopandas
+matplotlib
+census
+us
+pygris
+python-pptx
